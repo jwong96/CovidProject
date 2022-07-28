@@ -1,4 +1,4 @@
--- Cleaning data in SQL quueries
+-- Cleaning data in SQL queries
 
 SELECT *
 FROM PortfolioProject.dbo.NashvilleHousing
